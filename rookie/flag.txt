@@ -1,0 +1,1 @@
+cwa.ctf(always_check_the_source_code)
